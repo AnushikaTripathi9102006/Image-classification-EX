@@ -517,7 +517,8 @@ else:
 
     </div>
 
-    """,unsafe_allow_html=True)
+    """, unsafe_allow_html=True)
+
 
 st.markdown("""
 
@@ -533,13 +534,4 @@ st.markdown("""
 
 </div>
 
-""",unsafe_allow_html=True)
-```
-
-else:
-    st.info("👆 Please upload an image to begin prediction.")
-
-st.markdown(
-    '<div class="footer">Made with ❤️ using Streamlit & Scikit-learn</div>',
-    unsafe_allow_html=True
-)
+""", unsafe_allow_html=True)
