@@ -526,7 +526,7 @@ st.markdown("""
 
 <hr>
 
-🚀 Developed with ❤️ using Streamlit | Scikit-Learn | NumPy | Pillow
+🚀 Developed using Streamlit | Scikit-Learn | NumPy | Pillow
 
 <br><br>
 
